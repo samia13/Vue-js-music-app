@@ -40,10 +40,6 @@ export default {
       isPlaying : false,
       songs : [
         {
-          title : 'Horse',
-          src : require('./assets/horse.mp3')
-        },
-        {
           title : 'In The End',
           src : require('./assets/Tommee-Profitt.mp3')
         },
